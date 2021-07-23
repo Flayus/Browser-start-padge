@@ -1,0 +1,51 @@
+
+body{
+	background-image: url(background.png);
+}
+
+a{
+	text-decoration: none;
+}
+
+.button{
+	font-size: 50px;
+	text-align: center;
+	font-family: 'Comfortaa';
+	font-weight: bold;
+	padding: 10px;
+	text-decoration: none;
+}
+
+.button:hover{
+	font-size: 65px;
+}
+
+#cloak{
+	position: absolute;
+}
+
+#pogoda{
+	right: 0px;
+	position: absolute;
+	padding: 16px;
+}
+
+#google, #google:visited{
+	color: white;
+}
+
+#gmail, #gmail:visited{
+	color: white;
+}
+
+#youTube, #youTube:visited{
+	color: red;
+}
+
+#youTubeMusic, #youTubeMusic:visited{
+	color: red;
+}
+
+#googleDisk, #googleDisk:visited{
+	color: white;
+}
